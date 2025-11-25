@@ -1,0 +1,12 @@
+# Ignorar ambiente virtual e cache
+venv/
+.venv/
+__pycache__/
+
+# Ignorar o dataset de imagens de faces (MUITO IMPORTANTE!)
+data/orl_faces/
+orl_faces/
+
+# Ignorar arquivos de modelo salvos
+*.pkl
+*.h5
