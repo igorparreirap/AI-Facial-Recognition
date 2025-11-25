@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧑‍💻 IA-Reconhecimento-Facial-AED3: PCA (Eigenfaces) e SVM
 
 
@@ -53,3 +54,7 @@ O pipeline de PCA + SVM foi avaliado usando **Cross-Validation (KFold)** com 10 
 Instale as bibliotecas de Machine Learning e visão computacional usando o arquivo `requirements.txt`:
 ```bash
 pip install -r requirements.txt
+=======
+# IA-Reconhecimento-Facial
+Sistema de reconhecimento facial utilizando PCA (Eigenfaces) para redução de dimensionalidade e SVM com kernel RBF para classificação.
+>>>>>>> 01e1cf025a8197fa0feffc922793505c723a75af
